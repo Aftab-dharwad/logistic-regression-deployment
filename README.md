@@ -13,7 +13,7 @@ The model takes basic passenger information such as:
 - Ticket Class  
 - Gender  
 - Age  
-- Family members travelling  
+- Family members travelling 
 - Fare  
 - Embarkation point  
 
